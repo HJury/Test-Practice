@@ -63,7 +63,8 @@ task cucumberScreenplayPracticeForm(group: 'Screenplay Practice', description: '
         javaexec {
             main = "io.cucumber.core.cli.Main"
             classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
-            args = ['--plugin', 'pretty','Snippets', 'SnippetType.CAMELCASE' ,'-t', '@Execute','--glue', 'stepDefinition.seleniumPracticeForm', 'src/test/resources/featuresFillingForm']
+            args = ['--snippets','camelcase', '-t', '@Execute','--glue', 'stepDefinition.seleniumPracticeForm', 'src/test/resources/featuresFillingForm']
+
         }
     }
 

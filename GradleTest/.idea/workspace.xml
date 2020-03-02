@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17deacee-5752-4b23-b7f4-8fbf44213a37" name="Default Changelist" comment="" />
+    <list default="true" id="17deacee-5752-4b23-b7f4-8fbf44213a37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GradleTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.idea/ScreenplayTestGradle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/src/main/java/com/screenplay/automation/userInterface/AutomationDemoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/build/libs/ScreenplayTestGradle-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/build/libs/ScreenplayTestGradle-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/src/main/java/com/screenplay/automation/tasks/FillForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/src/main/java/com/screenplay/automation/tasks/Navigate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/src/test/java/com/screenplay/automation/stepDefinitions/AutomationFormSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/src/test/java/com/screenplay/automation/stepDefinitions/AutomationFormSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScreenplayTestGradle/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../ScreenplayTestGradle/src/test/resources/serenity.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +106,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YJPsrcY1pfCSiLD35gsm2vOHf3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
