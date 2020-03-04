@@ -3,6 +3,7 @@ package stepDefinition.seleniumPracticeForm;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import pageObjects.AutomationDemoSite;
@@ -41,8 +42,7 @@ public class StepDefinitionSeleniumPracticeForm {
 
     @Then("Lucas should see his submit on the WebTable")
     public void lucas_should_see_his_submit_on_the_WebTable() {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
+        Assert
     }
 
 
