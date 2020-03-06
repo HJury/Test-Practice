@@ -25,7 +25,7 @@ configurations {
     }
 }
 
-task cucumberSelenimuPracticeForm() {
+task cucumberSelenimuPracticeForm(type: Test) {
     dependsOn assemble, compileTestJava
     doLast {
         javaexec {

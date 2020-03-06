@@ -14,7 +14,7 @@ public class StepSeleniumTable {
 
     @Given("Lucas get into the page")
     public void lucas_get_into_the_page() {
-        System.setProperty("webDriver.chrome.driver",
+        System.setProperty("webdriver.chrome.driver",
                 "C:\\Users\\rherrera\\IdeaProjects\\GitHub\\GradleTableTest\\src\\test\\resources\\webDriver\\chromedriver.exe");
         driver = new ChromeDriver();
         driver.get("https://www.techlistic.com/p/demo-selenium-practice.html");
@@ -23,11 +23,10 @@ public class StepSeleniumTable {
 
     @When("Lucas get the elements of the table")
     public void lucas_get_the_elements_of_the_table() {
-        Assert.assertTrue(seleniumTable.getTable());
+        seleniumTable.getTable();
     }
 
     @Then("he should print them in the same order")
     public void he_should_print_them_in_the_same_order() {
-        seleniumTable.printTable();
     }
 }

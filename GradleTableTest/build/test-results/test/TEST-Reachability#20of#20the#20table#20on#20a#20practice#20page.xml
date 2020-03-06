@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Reachability of the table on a practice page" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-04T16:19:27" hostname="EN2010247" time="5.343">
+  <properties/>
+  <testcase name="Getting the table and print it" classname="Reachability of the table on a practice page" time="5.343"/>
+  <system-out><![CDATA[1
+null
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 20585
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Mar 04, 2020 11:19:31 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1583338772.096][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
