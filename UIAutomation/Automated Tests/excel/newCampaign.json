@@ -1,0 +1,18 @@
+{
+  "Campaign name": "DevOps",
+  "Start date": "12122020",
+  "End date": "12122021",
+  "Role": "JT Junior Developer",
+  "Project" : "PROJECT 1",
+  "Requestor" : "CARLOS TOVAR",
+  "Keywords" : "Selenium,Java,C",
+  "Desired profile" : "Buen trabajador",
+
+  "Invalid-Campign name" : "FpcAWsoAOVTLXseaJWYIiswfDvbGqhR9ktuWX5QbsSmDmL5gE3AvcjGDwtYdukwTvTrCHlm1bfwEr4oUcNelwrEOH4UvcEvfTHc4EVM7kJKJnLYc5Y97q5CP3gFAkwp9NrOqBj3o6wyTynk0sZ5dQitD1VHhRiK7aD3ybaG8Crwp1mnNy4H44OzCCR8BeiMzzeqVebxeIzo9ZH8LhI9NQkPKTWPIjU3j8LA36umxiw1FjqvOwKiwl2pZpPzXRzg1",
+  "Invalid-Start date" : "21212019",
+  "Invalid-End date" : "21212018",
+  "Invalid-Role" : "Medico",
+  "Invalid-Project" : "ASDF",
+  "Invalid-Requestor" : "lksIlkiSS",
+  "Invalid-Keywords" : ""
+}

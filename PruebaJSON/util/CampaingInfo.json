@@ -1,0 +1,13 @@
+{
+  "Create Campaign":
+  {
+    "Name": "DevOps",
+    "Keys": "Rafael,Herrera,Jurado",
+    "Star Date": "11/06/2020"
+  },
+  "Campaign List":
+  {
+    "Name": "List",
+    "Cosas": "Muchas cosas"
+  }
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Create Campaign" skipped="0" tests="1" time="9.43" timestamp="2020-04-02 03:12:52"><testcase name="Campaigns successfully created"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+util.JSONNewCampaign.getValue(JSONNewCampaign.java:30)&#13;
+pageObjects.NewCampaignPage.fillInformationCorrectly(NewCampaignPage.java:63)&#13;
+stepDefinitions.NewCampaingStepDefinitions.lucas_enters_information_into_the_mandatory_fields(NewCampaingStepDefinitions.java:40)&#13;
+✽.Lucas enters information into the mandatory fields(src/test/java/resources/functionalTestsFeatures/CreateCamapign.feature:8)&#13;
+</system-err></testcase></testsuite>
